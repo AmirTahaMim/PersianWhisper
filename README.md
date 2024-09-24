@@ -36,12 +36,12 @@ pip install torch transformers gradio
 
 1. Clone this repository:
 
-   git clone https://github.com/yourusername/persian-whisper-speech-recognition.git
-   cd persian-whisper-speech-recognition
+   git clone https://github.com/AmirTahaMim/PersianWhisper
+   cd PersianWhisper
 
 2. Run the Jupyter Notebook:
 
-   jupyter notebook persian_whisper_speech_recognition.ipynb
+   jupyter PersianWhisper.ipynb
 
 3. Upload your audio file using the Gradio interface.
 4. View the transcription and download it as a .txt file.
